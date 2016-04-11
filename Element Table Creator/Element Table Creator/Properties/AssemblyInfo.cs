@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Управление общими сведениями о сборке осуществляется с помощью 
 // набора атрибутов. Измените значения этих атрибутов, чтобы изменить сведения,
 // связанные со сборкой.
-[assembly: AssemblyTitle("ElementFilterConsole")]
+[assembly: AssemblyTitle("Element Table Creator")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ElementFilterConsole")]
+[assembly: AssemblyProduct("Element Table Creator")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("99d6e562-e5f2-414a-9e80-a76f704fd29f")]
+[assembly: Guid("64eaaa10-1947-45f5-a49e-1055e0d7ddfe")]
 
 // Сведения о версии сборки состоят из следующих четырех значений:
 //
